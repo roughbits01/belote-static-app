@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1732405531|13662517091';
+const CACHE_VERSION = '1732410856|274285433';
 /** @type {string} */
 const CACHE_PREFIX = 'Belote-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
