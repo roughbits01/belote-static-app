@@ -4,7 +4,7 @@ echo "Cache busting"
 TIMESTAMP=$(date +%s)
 
 # Go to the folder where the project is exported to
-cd /Users/marwen.azouzi/coinche/export || exit
+cd ~/godot-export || exit
 
 # Remove the OLD renamed files from last time since Godot won't overwrite them.
 rm index-*.*
